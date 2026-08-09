@@ -598,43 +598,44 @@ decorative visual complexity**.
 
 ## 14. Dashboard Preview
 
-### Workforce Overview
-
-![Workforce Overview](screenshots/Workforce-Overview.png)
+## Workforce Overview
 
 Provides a high-level view of workforce size, attrition, demographics, retention, and major workforce patterns.
 
+![Workforce Overview](screenshots/Workforce-Overview.png)
+
 ---
 
-### Workforce Insights
-
-![Workforce Insights](screenshots/Workforce-Insights.png)
+## Workforce Insights
 
 Breaks down attrition across business travel, salary, education, job satisfaction, and overtime.
 
+![Workforce Insights](screenshots/Workforce-Insights.png)
+
 ---
 
-### Satisfaction & Performance
-
-![Satisfaction & Performance](screenshots/Satisfaction%20%26%20Performance.png)
+## Satisfaction & Performance
 
 Examines the relationship between employee experience indicators, satisfaction, work-life balance, and performance.
 
+![Satisfaction and Performance](screenshots/Satisfaction%20&%20Performance.png)
+
 ---
 
-### Employee Details
-
-![Employee Details](screenshots/Employee%20Details.png)
+## Employee Details
 
 Provides employee-level filtering and investigation.
 
+![Employee Details](screenshots/Employee%20Details.png)
+
 ---
 
-### Executive Insights
+## Executive Insights
+
+Combines attrition segmentation, Key Influencers, and executive recommendations.
 
 ![Executive Insights](screenshots/Executive%20Insights.png)
 
-Combines attrition segmentation, Key Influencers, and executive recommendations.
 
 ------------------------------------------------------------------------
 
