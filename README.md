@@ -595,39 +595,46 @@ decorative visual complexity**.
 
 ------------------------------------------------------------------------
 
+
 ## 14. Dashboard Preview
 
-## Workforce Overview "C:\Users\meena\Downloads\workforce-attrition-retention-analytics-readme\screenshots\Workforce-Overview.png"
+### Workforce Overview
 
-Provides a high-level view of workforce size, attrition, demographics,
-retention, and major workforce patterns.
+![Workforce Overview](screenshots/Workforce-Overview.png)
 
-------------------------------------------------------------------------
+Provides a high-level view of workforce size, attrition, demographics, retention, and major workforce patterns.
 
-## Workforce Insights "C:\Users\meena\Downloads\workforce-attrition-retention-analytics-readme\screenshots\Workforce-Insights.png"
+---
 
-Breaks down attrition across business travel, salary, education, job
-satisfaction, and overtime.
+### Workforce Insights
 
-------------------------------------------------------------------------
+![Workforce Insights](screenshots/Workforce-Insights.png)
 
-## Satisfaction & Performance "C:\Users\meena\Downloads\workforce-attrition-retention-analytics-readme\screenshots\Satisfaction & Performance.png"
+Breaks down attrition across business travel, salary, education, job satisfaction, and overtime.
 
-Examines the relationship between employee experience indicators,
-satisfaction, work-life balance, and performance.
+---
 
-------------------------------------------------------------------------
+### Satisfaction & Performance
 
-## Employee Details "C:\Users\meena\Downloads\workforce-attrition-retention-analytics-readme\screenshots\Employee Details.png"
+![Satisfaction & Performance](screenshots/Satisfaction%20%26%20Performance.png)
+
+Examines the relationship between employee experience indicators, satisfaction, work-life balance, and performance.
+
+---
+
+### Employee Details
+
+![Employee Details](screenshots/Employee%20Details.png)
 
 Provides employee-level filtering and investigation.
 
-------------------------------------------------------------------------
+---
 
-## Executive Insights "C:\Users\meena\Downloads\workforce-attrition-retention-analytics-readme\screenshots\Executive Insights.png"
+### Executive Insights
 
-Combines attrition segmentation, Key Influencers, and executive
-recommendations.
+![Executive Insights](screenshots/Executive%20Insights.png)
+
+Combines attrition segmentation, Key Influencers, and executive recommendations.
 
 ------------------------------------------------------------------------
 
