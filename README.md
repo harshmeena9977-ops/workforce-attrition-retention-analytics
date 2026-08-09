@@ -602,7 +602,7 @@ decorative visual complexity**.
 
 Provides a high-level view of workforce size, attrition, demographics, retention, and major workforce patterns.
 
-![Workforce Overview](screenshots/Workforce-Overview.png)
+![Workforce Overview](screenshots/workforce-overview.png)
 
 ---
 
@@ -610,7 +610,7 @@ Provides a high-level view of workforce size, attrition, demographics, retention
 
 Breaks down attrition across business travel, salary, education, job satisfaction, and overtime.
 
-![Workforce Insights](screenshots/Workforce-Insights.png)
+![Workforce Insights](screenshots/workforce-insights.png)
 
 ---
 
@@ -618,7 +618,7 @@ Breaks down attrition across business travel, salary, education, job satisfactio
 
 Examines the relationship between employee experience indicators, satisfaction, work-life balance, and performance.
 
-![Satisfaction and Performance](screenshots/Satisfaction%20&%20Performance.png)
+![Satisfaction and Performance](screenshots/satisfaction-performance.png)
 
 ---
 
@@ -626,7 +626,7 @@ Examines the relationship between employee experience indicators, satisfaction, 
 
 Provides employee-level filtering and investigation.
 
-![Employee Details](screenshots/Employee%20Details.png)
+![Employee Details](screenshots/employee-details.png)
 
 ---
 
@@ -634,8 +634,7 @@ Provides employee-level filtering and investigation.
 
 Combines attrition segmentation, Key Influencers, and executive recommendations.
 
-![Executive Insights](screenshots/Executive%20Insights.png)
-
+![Executive Insights](screenshots/executive-insights.png)
 
 ------------------------------------------------------------------------
 
