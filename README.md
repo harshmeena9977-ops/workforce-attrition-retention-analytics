@@ -5,6 +5,8 @@ An independent Power BI practice project exploring historical employee attrition
 ## Project files
 
 - [Power BI report](powerbi/HR_Analytics_Dashboard.pbix)
+- [Project presentation](presentations/Workforce_Attrition_Retention_Analytics_Presentation.pptx)
+- [Repository license](LICENSE)
 - Dashboard screenshots: [Workforce overview](screenshots/workforce-overview.png), [Workforce insights](screenshots/workforce-insights.png), [Satisfaction and performance](screenshots/satisfaction-performance.png), [Employee details](screenshots/employee-details.png), and [Executive insights](screenshots/executive-insights.png)
 - [Data folder](data/)
 - [Data dictionary file](documentation/data-dictionary.md)
